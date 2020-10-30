@@ -1,19 +1,16 @@
 # Azure DevOps Monorepo CI pipeline using NX
 #### Mohsen Asfia
 ##### Nucleus
-##### Sky (former Ace team)
+##### Sky (aka Ace)
 
 
 
 ### Miss you all! 
-<img src="service-delivery.jpg" alt="drawing" width="600"/>
-
-
-![Copenhill Race](dynamic-net.png)
+![Working from home](working-from-home.jpeg)
 
 
 
-## Table content
+## Table of content
 - Misconceptions about Monorepo
 - Monorepo !== Monolith
 - NX
